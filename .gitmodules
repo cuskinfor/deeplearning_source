@@ -10,3 +10,33 @@
 [submodule "awesome-deep-vision"]
 	path = awesome-deep-vision
 	url = https://github.com/kjw0612/awesome-deep-vision.git
+[submodule "reinforcement-learning-an-introduction"]
+	path = reinforcement-learning-an-introduction
+	url = https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+[submodule "DeepLearningFlappyBird"]
+	path = DeepLearningFlappyBird
+	url = https://github.com/yenchenlin/DeepLearningFlappyBird
+[submodule "unreal"]
+	path = unreal
+	url = https://github.com/miyosuda/unreal
+[submodule "Practical_RL"]
+	path = Practical_RL
+	url = https://github.com/yandexdataschool/Practical_RL
+[submodule "keras-rl"]
+	path = keras-rl
+	url = https://github.com/matthiasplappert/keras-rl
+[submodule "noreward-rl"]
+	path = noreward-rl
+	url = https://github.com/pathak22/noreward-rl
+[submodule "reinforcement-learning"]
+	path = reinforcement-learning
+	url = https://github.com/rlcode/reinforcement-learning
+[submodule "dennybritz-rl"]
+	path = dennybritz-rl
+	url = https://github.com/dennybritz/reinforcement-learning.git
+[submodule "DeepRL-Agents"]
+	path = DeepRL-Agents
+	url = https://github.com/awjuliani/DeepRL-Agents
+[submodule "async_deep_reinforce"]
+	path = async_deep_reinforce
+	url = https://github.com/miyosuda/async_deep_reinforce
