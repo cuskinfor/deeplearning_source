@@ -1,0 +1,12 @@
+[submodule "awesome-rnn"]
+	path = awesome-rnn
+	url = https://github.com/kjw0612/awesome-rnn.git
+[submodule "awesome-rl"]
+	path = awesome-rl
+	url = https://github.com/aikorea/awesome-rl.git
+[submodule "awesome-random-forest"]
+	path = awesome-random-forest
+	url = https://github.com/kjw0612/awesome-random-forest.git
+[submodule "awesome-deep-vision"]
+	path = awesome-deep-vision
+	url = https://github.com/kjw0612/awesome-deep-vision.git
